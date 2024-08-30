@@ -1,4 +1,4 @@
-# Install Docker & Docker Compose on Ubuntu Server or Debian
+# Install Docker & Docker Compose
 
 ```bash
 git clone https://git.merlinslair.net/beech/DockerInstallScripts
