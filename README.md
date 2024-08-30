@@ -1,12 +1,13 @@
-# Install Docker & Docker Compose on Ubuntu Server
----
+# Install Docker & Docker Compose on Ubuntu Server or Debian
 
 ```bash
-curl https://git.boppdev.net/beech/DockerInstallUbuntu/raw/branch/main/install.sh -o install.sh
+git clone https://git.merlinslair.net/beech/DockerInstallScripts
 
-chmod +x install.sh
+cd DockerInstallScripts
 
-./install.sh
+chmod +x install-ubuntu.sh
+
+./install-ubuntu.sh
 ```
 Agree to install when prompted
 
